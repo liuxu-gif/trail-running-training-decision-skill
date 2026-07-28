@@ -1,0 +1,21 @@
+{
+  "name": "trail-running-training-decision-skill",
+  "display_name": "Trail Running Training Decision Skill",
+  "version": "2.2.0",
+  "language": [
+    "zh-CN"
+  ],
+  "entrypoint": "SKILL.md",
+  "docs": [
+    "docs/personalization-engine.md",
+    "docs/recovery-decision-engine.md",
+    "docs/strength-periodization.md"
+  ],
+  "templates": [
+    "templates/runner-profile-template.md",
+    "templates/race-profile-template.md",
+    "templates/assessment-screen.md"
+  ],
+  "license": "CC-BY-NC-4.0",
+  "medical_advice": false
+}
