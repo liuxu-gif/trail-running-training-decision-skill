@@ -1,4 +1,3 @@
-sed: --: No such file or directory
 # Race Profile Template
 
 - 赛事名称：

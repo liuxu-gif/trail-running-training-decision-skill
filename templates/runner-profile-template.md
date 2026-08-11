@@ -1,4 +1,3 @@
-sed: --: No such file or directory
 # Runner Profile Template
 
 ## 基础信息

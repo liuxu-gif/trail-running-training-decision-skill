@@ -2,4 +2,3 @@ interface:
   display_name: "越野跑训练决策"
   short_description: "个性化越野跑与超长距离训练、同期负荷、恢复调整和比赛决策"
   default_prompt: "使用 $trail-running-training-decision-skill，根据我的跑者资料、赛事目标、近期负荷和恢复状态制定安全的个性化训练决策。"
-sed: --: No such file or directory

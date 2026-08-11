@@ -1,4 +1,3 @@
-sed: --: No such file or directory
 # Trail Running Training Decision Skill
 
 **v2.3.1｜同期训练与适应成本管理版**

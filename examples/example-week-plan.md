@@ -1,4 +1,3 @@
-sed: --: No such file or directory
 # Example Week Plan
 
 > 虚构示例，仅展示输出结构。

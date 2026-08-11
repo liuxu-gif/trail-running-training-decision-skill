@@ -1,4 +1,3 @@
-sed: --: No such file or directory
 ---
 name: trail-running-training-decision-skill
 description: 为越野跑和超长距离跑者制定个性化训练决策，覆盖阶段判断、弹性周期、每日调整、同期耐力与力量训练、适应成本、力量与 ME 周期、下坡机械承载、补给、恢复和比赛策略。用于用户请求越野跑训练计划、根据恢复状态调整训练、备赛超马或山地赛事、安排力量与耐力课、分析训练风险或制定比赛执行方案时。

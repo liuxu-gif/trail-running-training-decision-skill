@@ -1,4 +1,3 @@
-sed: --: No such file or directory
 # Strength Periodization
 
 ## 一、总原则

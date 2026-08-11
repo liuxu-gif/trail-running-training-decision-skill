@@ -1,4 +1,3 @@
-sed: --: No such file or directory
 # Changelog
 
 ## v2.3.1 - 2026-08-11

@@ -1,4 +1,3 @@
-sed: --: No such file or directory
 # INSTALL
 
 这里的“安装”是让 AI 把本仓库作为训练决策规则，而不是安装软件。

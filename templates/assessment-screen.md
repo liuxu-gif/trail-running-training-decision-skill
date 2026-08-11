@@ -1,4 +1,3 @@
-sed: --: No such file or directory
 # Assessment Screen
 
 ## 健康红旗
