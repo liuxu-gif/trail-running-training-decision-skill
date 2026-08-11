@@ -1,7 +1,8 @@
+sed: --: No such file or directory
 {
   "name": "trail-running-training-decision-skill",
   "display_name": "Trail Running Training Decision Skill",
-  "version": "2.2.0",
+  "version": "2.3.1",
   "language": [
     "zh-CN"
   ],
@@ -9,7 +10,8 @@
   "docs": [
     "docs/personalization-engine.md",
     "docs/recovery-decision-engine.md",
-    "docs/strength-periodization.md"
+    "docs/strength-periodization.md",
+    "docs/concurrent-training-engine.md"
   ],
   "templates": [
     "templates/runner-profile-template.md",

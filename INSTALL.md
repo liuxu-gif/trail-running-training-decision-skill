@@ -1,3 +1,4 @@
+sed: --: No such file or directory
 # INSTALL
 
 这里的“安装”是让 AI 把本仓库作为训练决策规则，而不是安装软件。
@@ -10,11 +11,13 @@
 2. docs/personalization-engine.md
 3. docs/recovery-decision-engine.md
 4. docs/strength-periodization.md
-5. templates 下的三个模板
+5. docs/concurrent-training-engine.md
+6. templates 下的三个模板
 
 请先收集我的 Profile，再给训练建议。
-不得机械套模板，不得只看单日 HRV。
+不得机械套模板，不得只看单日 HRV、心率或公里数。
 主方案必须附带黄灯降级方案和红灯取消标准。
+同期安排训练时必须说明主适应、竞争负荷和适应收益 / 恢复成本。
 ```
 
 ## 上传为项目源
