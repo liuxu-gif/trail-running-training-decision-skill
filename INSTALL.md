@@ -11,12 +11,14 @@
 3. docs/recovery-decision-engine.md
 4. docs/strength-periodization.md
 5. docs/concurrent-training-engine.md
-6. templates 下的三个模板
+6. docs/mountain-long-run-engine.md
+7. templates 下的三个模板
 
 请先收集我的 Profile，再给训练建议。
 不得机械套模板，不得只看单日 HRV、心率或公里数。
 主方案必须附带黄灯降级方案和红灯取消标准。
 同期安排训练时必须说明主适应、竞争负荷和适应收益 / 恢复成本。
+设计或复盘山地长课时必须说明多维负荷、相对新颖度和 24–48 小时吸收结果。
 ```
 
 ## 上传为项目源

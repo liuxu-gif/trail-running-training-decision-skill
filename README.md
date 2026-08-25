@@ -1,6 +1,6 @@
 # Trail Running Training Decision Skill
 
-**v2.3.1｜同期训练与适应成本管理版**
+**v2.3.2｜山地长课多维负荷与吸收闭环版**
 
 一个面向越野跑和超长距离跑者的 AI 训练决策 Skill。它不是固定课表，而是：
 
@@ -16,7 +16,16 @@
 2. 机械门：最大力量、ME、下坡离心、足踝和单腿稳定；
 3. 执行门：补给纪律、前半程克制、走跑切换和疲劳后决策。
 
-## v2.3.1 升级
+## v2.3.2 升级
+
+- 山地长课按外部负荷、内部反应、机械/神经肌肉成本和吸收结果分级；
+- 新增相对最近约 4–6 周暴露历史的新颖度判断；
+- 用 24–48 小时疼痛、DOMS、睡眠、HRex 与下一堂关键课质量验证吸收；
+- 普通建设课优先推进一个主变量，其余保持熟悉；
+- 比赛专项模拟可叠加变量，但视为高成本刺激并预留恢复窗口；
+- 新增 `docs/mountain-long-run-engine.md`。
+
+## v2.3.1 基础
 
 - 7 天结构只是生活容器；
 - 关键刺激采用 5–10 天弹性间隔；
@@ -38,9 +47,10 @@
 3. `docs/recovery-decision-engine.md`
 4. `docs/strength-periodization.md`
 5. `docs/concurrent-training-engine.md`
-6. `templates/runner-profile-template.md`
-7. `templates/race-profile-template.md`
-8. `templates/assessment-screen.md`
+6. `docs/mountain-long-run-engine.md`
+7. `templates/runner-profile-template.md`
+8. `templates/race-profile-template.md`
+9. `templates/assessment-screen.md`
 
 ## 安装提示语
 
