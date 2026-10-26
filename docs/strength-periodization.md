@@ -99,6 +99,8 @@ Build reserve、Transfer、Specific exposure 与 Retain 表示主适应权重的
 
 ## 七、ME 转化块
 
+这里的 ME 处方指专门肌耐力手段；肌耐力本身是适应能力，坡上质量、山地和其他训练也能贡献。最大力量与专门 ME 之间可用坡度走跑、单腿控制、Step-up 和渐进下降做专项力量转化，不必立即追求局部肌群先限。
+
 适合已有有氧和力量基础、进入爬升与长距离专项期者。
 
 形式：
@@ -198,6 +200,8 @@ Build reserve、Transfer、Specific exposure 与 Retain 表示主适应权重的
 
 ## 十一、弹性和爆发力
 
+Stage 1–3 动作进阶与低疲劳筛查见 `testing-and-calibration.md`；短坡冲的个体剂量、机械恢复和替代规则见 `periodization-and-quality.md`。达到阶段标签不自动允许跳跃、负重下降或冲刺。
+
 不单独开“爆发力月”。可在最大力量后期加入 pogo、低箱跳、小量跳绳或短坡 strides。
 
 原则：
@@ -247,7 +251,7 @@ Build reserve、Transfer、Specific exposure 与 Retain 表示主适应权重的
 
 ## 十六、评估
 
-每 4 周记录：
+优先随正常训练记录，阶段转换时汇总；约每 4 周回看可作为习惯，不需要额外最大测试：
 
 - 髋主导动作相同 RPE 的 3–5 次重量；
 - 单腿动作两侧质量；

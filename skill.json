@@ -1,7 +1,7 @@
 {
   "name": "trail-running-training-decision-skill",
   "display_name": "Trail Running Training Decision Skill",
-  "version": "2.3.5",
+  "version": "2.5.0",
   "language": [
     "zh-CN"
   ],
@@ -11,12 +11,15 @@
     "docs/recovery-decision-engine.md",
     "docs/strength-periodization.md",
     "docs/concurrent-training-engine.md",
-    "docs/mountain-long-run-engine.md"
+    "docs/mountain-long-run-engine.md",
+    "docs/testing-and-calibration.md",
+    "docs/periodization-and-quality.md"
   ],
   "templates": [
     "templates/runner-profile-template.md",
     "templates/race-profile-template.md",
-    "templates/assessment-screen.md"
+    "templates/assessment-screen.md",
+    "templates/test-record-template.md"
   ],
   "license": "CC-BY-NC-4.0",
   "medical_advice": false

@@ -12,7 +12,9 @@
 4. docs/strength-periodization.md
 5. docs/concurrent-training-engine.md
 6. docs/mountain-long-run-engine.md
-7. templates 下的三个模板
+7. templates 下的三个基础模板
+8. 首次建档或复评时读取 docs/testing-and-calibration.md，按需填写 templates/test-record-template.md
+9. 周类型、间歇和减量时读取 docs/periodization-and-quality.md
 
 请先收集我的 Profile，再给训练建议。
 不得机械套模板，不得只看单日 HRV、心率或公里数。
@@ -23,6 +25,7 @@
 阶段序列表示主适应权重变化；不得把最大力量、垂直有氧、ME 和力量维护理解成互斥开关。
 每周力量必须区分主适应课与结构支持课；结构课不得变成第二堂重腿。
 分析单腿偏移时，先比较固定动作质量、ROM、负重/时长和症状反应，不从一次动作直接诊断单一薄弱肌群。
+为我独立判断是否需要测试，优先复用已有数据；如需测试，给出可执行流程、退出标准、替代训练与结果如何改变处方。未实际完成不写成已测。
 ```
 
 ## 上传为项目源

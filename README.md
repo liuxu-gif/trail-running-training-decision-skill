@@ -1,6 +1,16 @@
 # Trail Running Training Decision Skill
 
-**v2.3.5｜双轨力量 × 力线控制系统版**
+**v2.5.0｜周期审计、个性化测试与专项力量转化版**
+
+同步作者 Notion v2.5（2026-10-26），合并 v2.3.6–v2.5 的通用增量。
+
+## v2.5.0 更新
+
+- 首次建档先审查已有证据，为每位跑者决定是否测试；低疲劳筛查、AeT 校准及表现测试各有适用条件和结果回流。
+- 新增 `docs/testing-and-calibration.md`、`templates/test-record-template.md` 与 `docs/periodization-and-quality.md`。
+- 周类型、实际能力块审计、完整间歇处方、动作 Stage 1–3、短坡冲替代与恢复门。
+- 区分肌耐力适应与专门 ME 手段；修订 W′、阈值、热湿复盘与减量的证据边界。
+- 测试按问题触发，复用自然训练与比赛数据；个人参数、赛历和作者测试日期不公开。
 
 一个面向越野跑和超长距离跑者的 AI 训练决策 Skill。它不是固定课表，而是：
 
@@ -69,6 +79,8 @@
 7. `templates/runner-profile-template.md`
 8. `templates/race-profile-template.md`
 9. `templates/assessment-screen.md`
+
+首次评估或阶段复评时，按 `docs/testing-and-calibration.md` 决定是否测试，使用 `templates/test-record-template.md` 记录。周类型、质量课与减量按 `docs/periodization-and-quality.md` 处理；无需每次加载全部文档。
 
 ## 安装提示语
 

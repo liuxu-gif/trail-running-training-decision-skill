@@ -1,4 +1,4 @@
 interface:
   display_name: "越野跑训练决策"
-  short_description: "个性化越野跑、双轨力量、单腿控制、ME、恢复与比赛决策"
-  default_prompt: "使用 $trail-running-training-decision-skill，根据我的阶段、近期训练与恢复状态制定个性化计划，并安排主力量、结构支持、坡度有氧与 ME。"
+  short_description: "个性化越野跑训练、能力测试与强度校准、力量转化、恢复与比赛决策"
+  default_prompt: "使用 $trail-running-training-decision-skill，根据我的训练基础、既有测试与恢复状态，判断是否需要评估，并制定个性化训练和复评方案。"
